@@ -1,0 +1,5 @@
+.idea/
+.DS_Store
+infra/seglan-gtp-test/.terraform/
+infra/seglan-3ds-test/.terraform/
+**/.terraform
